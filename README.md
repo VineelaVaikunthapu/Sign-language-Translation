@@ -1,0 +1,1 @@
+Built a real-time sign language translation system using a CNN-LSTM architecture to recognize and translate sequential hand gestures from video frames. Employed MediaPipe for hand landmark detection and trained the model on custom gesture datasets to classify dynamic ASL signs.
